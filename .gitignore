@@ -1,0 +1,7 @@
+**/wwwroot/**
+**/.vs/**
+**/[Oo]bject
+**/[Oo]bj
+**/[Bb]in/**
+**/[Ll]ib/**
+**/*.user
